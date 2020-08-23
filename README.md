@@ -1,0 +1,1 @@
+# 3_6-pytest-testirovanie
